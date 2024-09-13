@@ -28,4 +28,4 @@ https://www.claflin.edu/
 [Claflin University, Orangeburg, South Carolina, USA.](https://www.claflin.edu/docs/default-source/academic-affairs-student-services/2018-2020-undergraduate-catalog_final_aug-21-2019_web.pdf?sfvrsn=15bf3f0e_6)
 
 Aug-19.R: T-test analysis.
-Sep-19.R: Correlation test analysis
+Sep-19.R: Correlation test analysis.
