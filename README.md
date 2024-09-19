@@ -29,3 +29,4 @@ https://www.claflin.edu/ https://www.claflin.edu/academics-research/schools-depa
 
 Aug-19.R: T-test analysis.
 Sep-19.R: Correlation test analysis.
+function(mlv, library, ggscatter, cor.test, mean, mode, Median, table, read.csv, chisq.test, dbinom, pbinom, ppois, runif, qchisq, qt, qf, pexp, runif, aov, summary, TukeyHSD, rnorm, seq, plot, lines, t.test, dbinom, levels, ggplot)
