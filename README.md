@@ -7,7 +7,7 @@ Probability & Statistics I & II, Biostatistics, Data Analysis (topics includi
 [Data analysis:](https://youtu.be/WIvehDeVRak)
 [Data analysis:](https://youtu.be/dhIjTt26YKQ)
 
-[R: ggpubr, tidyverse, datarium, dplyr]
+[R: ggpubr, tidyverse, datarium, dplyr].
 
 Chi Square: https://youtu.be/dgehxC9tJVc
 
