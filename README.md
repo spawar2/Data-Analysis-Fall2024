@@ -6,6 +6,7 @@ Date created/updated: December, 9, 2024.
 Probability & Statistics I & II, Biostatistics, Data Analysis (topics including descriptive & inferential statistics, probability distributions, variable types, distribution properties, discrete & continuous types, R functions, ANOVA, T-test, correlation, chi-Square, regression, etc.). Regression (linear, multiple, logistic), Probability distributions (Discrete, Binomial, Poisson, Continuous Uniform, Chi-squared, Student-t, Fisher,)  Exponential, Normal, Chi-Square), Analysis of Variance (ANOVA).
 [Data analysis:](https://youtu.be/WIvehDeVRak)
 [Data analysis:](https://youtu.be/dhIjTt26YKQ)
+![download](https://github.com/user-attachments/assets/884f627f-fd71-4a30-a841-6758a1e85a0b)
 
 [R: ggpubr, tidyverse, datarium, dplyr].
 
