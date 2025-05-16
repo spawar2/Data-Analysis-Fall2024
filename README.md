@@ -7,7 +7,9 @@ Probability & Statistics I & II, Biostatistics, Data Analysis (topics includi
 [Data analysis:](https://youtu.be/WIvehDeVRak)
 [Data analysis:](https://youtu.be/dhIjTt26YKQ)
 ![download](https://github.com/user-attachments/assets/884f627f-fd71-4a30-a841-6758a1e85a0b)
+https://www.claflin.edu/docs/default-source/academic-affairs-student-services/2018-2020-undergraduate-catalog_final_aug-21-2019_web.pdf?sfvrsn=15bf3f0e_6
 
+https://www.claflin.edu/docs/default-source/academics-docs/graduate-catalog-2024-26.pdf?sfvrsn=88de090e_0
 [R: ggpubr, tidyverse, datarium, dplyr].
 
 Chi Square: https://youtu.be/dgehxC9tJVc
